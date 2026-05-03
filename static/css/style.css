@@ -753,7 +753,7 @@ body:has(button:hover) .cursor { width: 20px; height: 20px; }
 }
 
 .feature-card:hover {
-  border-color: rgba(184,147,90,0.4);
+  border-color: rgba(207, 155, 78, 0.4);
   transform: translateY(-4px);
 }
 
